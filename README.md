@@ -1,5 +1,6 @@
 # AI-Driven-Job-Intelligence-System
 
+![Screenshot 2025-02-11 173458](https://github.com/user-attachments/assets/200087bd-5393-4a6b-816f-41835ae43f60)
 
 ```markdown
 # AI-Driven Job Intelligence System 🚀  
