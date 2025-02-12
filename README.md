@@ -1,11 +1,10 @@
 # AI-Driven-Job-Intelligence-System
 
-![Screenshot 2025-02-11 173458](https://github.com/user-attachments/assets/200087bd-5393-4a6b-816f-41835ae43f60)
-
-```markdown
 # AI-Driven Job Intelligence System 🚀  
 
 An **AI-powered job scraping and analysis system** that extracts job descriptions, matches required skills with a candidate’s portfolio, and generates **tailored interview questions** using **LLMs (Llama 3-70B)** and **ChromaDB**.  
+
+![Screenshot 2025-02-11 173458](https://github.com/user-attachments/assets/200087bd-5393-4a6b-816f-41835ae43f60)
 
 ## ✨ Features  
 
@@ -21,6 +20,7 @@ An **AI-powered job scraping and analysis system** that extracts job description
 - **Llama 3-70B** – AI model for question generation  
 - **Python, Pandas** – Data processing  
 - **Gradio** – Web interface for job analysis  
+
 
 ## 📂 Installation  
 
